@@ -25,7 +25,7 @@ const Current = () => {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Recent Projects | The Global Citizen</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Box bg="primary.100">

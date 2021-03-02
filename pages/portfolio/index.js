@@ -8,7 +8,7 @@ export default function Portfolio() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Portfolio | The Global Citizen</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero
@@ -20,7 +20,7 @@ export default function Portfolio() {
       />
       <Box bg="primary.100" pb={16}>
         <Gallery
-          heading="Current Projects"
+          heading="Recent Projects"
           href="/portfolio/current"
           imgURL={[
             './img/Test/_DSC6021.jpg',

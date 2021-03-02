@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Home | The Global Citizen</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero
